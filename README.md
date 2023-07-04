@@ -15,10 +15,23 @@ This web application leverages machine learning techniques to analyze and visual
 - **Web Application**: A user-friendly web interface is built to allow users to interact with the analyzed happiness data and explore the machine learning predictions.
 
 ### Usage
-1. **Upload Data**: Users can provide world happiness data in a compatible format through the web application interface.
-2. **Perform Analysis**: Users can choose the desired machine learning algorithm and initiate the analysis process.
-3. **Explore Results**: Users can interact with the visualizations to explore insights and predictions derived from the happiness data.
-4. **Download Reports**: Users have the option to download analysis reports and visualizations for further examination or sharing.
+
+The Happiness Predictor website offers the following features:
+
+1. **Predict Happiness**: Users can input relevant data and utilize machine learning models to predict happiness levels.
+
+2. **Explore Top Ranked Countries**: Users can discover the top four ranked countries according to the 2023 World Happiness Report.
+
+3. **Understand Model Building**: Users can gain insights into the essential steps involved in building the happiness prediction models.
+
+
+To use the Happiness Predictor website, follow these steps:
+
+1. Access the web application interface.
+2. Input the necessary data for happiness prediction.
+3. Initiate the analysis process to generate predicted happiness scores.
+4. Explore the predicted happiness scores and gain insights into the factors influencing happiness levels.
+
 
 ### Disclaimer
 The machine learning models and predictions presented in this application are based on historical data and should be interpreted with caution. The goal of this application is to provide an exploratory tool rather than definitive predictions of happiness levels.
