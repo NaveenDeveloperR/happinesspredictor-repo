@@ -5,7 +5,7 @@ This GitHub repository contains the code and resources for a web application tha
 **Demo Video Link**: [Demo Video](https://drive.google.com/file/d/1Ya8tx5pu0bj9hxJXCH_R-v3eWsIC3_-E/view?usp=share_link)
 
 ### Home Page
-![Happiness Predictor Home Page](Images/Screenshot%202024-11-17%20153833.png)
+![Happiness Predictor Home Page](HappinessPredictor%20Images/Screenshot%202024-11-17%20153833.png)
 ### Predict Happiness Page
 
 ![Predict Happiness Page](HappinessPredictor%20Images/Screenshot%202024-11-17%20153420.png)
