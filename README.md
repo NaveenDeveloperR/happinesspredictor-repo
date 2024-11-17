@@ -4,6 +4,22 @@ This GitHub repository contains the code and resources for a web application tha
 
 **Demo Video Link**: [Demo Video](https://drive.google.com/file/d/1Ya8tx5pu0bj9hxJXCH_R-v3eWsIC3_-E/view?usp=share_link)
 
+### Home Page
+![Happiness Predictor Home Page](Images/Screenshot%202024-11-17%20153833.png)
+### Predict Happiness Page
+
+![Predict Happiness Page](HappinessPredictor%20Images/Screenshot%202024-11-17%20153420.png)
+### What We Do Page
+
+![What We Do Page](HappinessPredictor%20Images/Screenshot%202024-11-17%20153455.png)
+### Country Rankings Page
+
+![Country Rankings Page](HappinessPredictor%20Images/Screenshot%202024-11-17%20153521.png)
+
+### About Page
+
+![About Page](HappinessPredictor%20Images/Screenshot%202024-11-17%20153536.png)
+
 ### World Happiness Machine Learning Website
 This web application leverages machine learning techniques to analyze and visualize world happiness data. The application provides valuable insights into the factors influencing happiness levels across different countries by implementing various machine learning algorithms for prediction and understanding.
 
